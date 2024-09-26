@@ -1,0 +1,21 @@
+.cat{
+    width: 300px;
+    height: 350px;
+    margin: 5px;
+    position: relative;
+    border: 5px solid red;
+}
+.MR{
+    color: red;
+}
+.lucy{
+    float: left;
+}
+.ramba{
+    float: right;
+}
+
+p, h1{
+
+    font-family: cursive;
+}
